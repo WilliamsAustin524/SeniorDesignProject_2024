@@ -1,0 +1,13 @@
+Senior Design V1 Gear Stuff:
+
+Distance between centers: 85mm
+Module:2
+Gear 1 Teeth:-75
+Gear 2 Teeth: 15
+Pressure Angle:20
+Clearance: 0.5mm
+Gear 2 Center Diameter: 5mm
+
+Motor Height:46.8mm
+Motor Width:42.5mm
+Motor Shaft:5mm
