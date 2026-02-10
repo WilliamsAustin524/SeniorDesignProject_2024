@@ -7,4 +7,4 @@ For our senior design project we designed a stationary intercept vehicle capable
 
 ![Design Poster](Images/FinalPoster.jpg)
 
-An in-depth paragraph about your project and overview of use.
+
